@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** -   https://delightful-bush-0d7766800.2.azurestaticapps.net
 
-**Demo video Link** -  
+**Project video demo URL link**  -   https://youtu.be/j-_I0jkFYls
 
 //Azure Technologies used for Project
 - Health bot
