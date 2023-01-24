@@ -13,7 +13,7 @@ This is a web based application developed for health related based website in in
 - Health bot
 - Static web apps
 
-## Features and Functionalities ##
+## Features and Functionalities 😃😃 ##
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -22,19 +22,19 @@ This is a web based application developed for health related based website in in
 - User can know about service provided in hospital through this website.
 - Included the feedback Survey form to increase the scope of improvement.
 
-## Screenshots 📸 📸
+## Screenshots 📸 📸 
 
 
 
-##About -
+##About 📸  -
 
 
-##Services -
+##Services 📸 -
 
 
 
 
-##Health-Bot -
+##Health-Bot 📸 -
 
 ------
 
@@ -46,13 +46,13 @@ This is a web based application developed for health related based website in in
 
 
 
-##Contacts -
+##Contacts 📸 -
 
 
-##Certificates -
+##Certificates 📸 -
 
 
-## Tech Stack ##
+## Tech Stack 💻 ##
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - Hypertext Markup Language
