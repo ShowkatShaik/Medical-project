@@ -1,6 +1,6 @@
 # Medico-Project
 
-This is a web based application developed for Health issues clarification that include various types like Mental health,Injury,HIV/AIDS,Overweight,Obesity and Nutrition deficiency through out the world.
+This is a web based application developed for health related based website in india.
 
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Github.
 
