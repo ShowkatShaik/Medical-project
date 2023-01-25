@@ -26,6 +26,17 @@ This is a web based application developed for health related based website in in
 
 ![111111111111](https://user-images.githubusercontent.com/111400941/214339189-95283d65-cc89-4a42-a2cc-ef8bd896c876.PNG)
 
+
+
+## **Health-Bot** 📸 -
+
+![aaaaaaa11111111](https://user-images.githubusercontent.com/111400941/214582122-3445368f-2302-4dd9-b39b-48633b991623.PNG)
+
+
+-----
+
+![aaaaaaaaa111111111111](https://user-images.githubusercontent.com/111400941/214582147-ed6887fe-9449-4de4-a626-783c4857a283.PNG)
+
 ## **About** 📸  -
 
 ![2222222222](https://user-images.githubusercontent.com/111400941/214339275-81d7aec7-bd67-470e-84dc-aeeee022816c.PNG)
@@ -38,17 +49,6 @@ This is a web based application developed for health related based website in in
 ## Careers 📸 -
 
 ![444444444](https://user-images.githubusercontent.com/111400941/214339517-e9f44e74-8bf6-4689-aed3-db697d428f96.PNG)
-
-
-## **Health-Bot** 📸 -
-
-![aaaaaaa11111111](https://user-images.githubusercontent.com/111400941/214582122-3445368f-2302-4dd9-b39b-48633b991623.PNG)
-
-
------
-
-![aaaaaaaaa111111111111](https://user-images.githubusercontent.com/111400941/214582147-ed6887fe-9449-4de4-a626-783c4857a283.PNG)
-
 
 
 ## **Contacts** 📸 -
